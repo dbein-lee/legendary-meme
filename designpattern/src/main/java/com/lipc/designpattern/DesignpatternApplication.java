@@ -1,18 +1,13 @@
-package com.lipc.tools;
+package com.lipc.designpattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * application boot entrance
- * @author dbein
- * @date 2019/1/23
- */
 @SpringBootApplication
-public class ToolsApplication {
+public class DesignpatternApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToolsApplication.class, args);
+		SpringApplication.run(DesignpatternApplication.class, args);
 	}
 
 }

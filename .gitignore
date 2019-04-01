@@ -15,3 +15,4 @@
 /tools/.mvn/wrapper/maven-wrapper.properties
 /tools/mvnw
 /tools/mvnw.cmd
+/spring-websocket/.mvn/wrapper/maven-wrapper.properties

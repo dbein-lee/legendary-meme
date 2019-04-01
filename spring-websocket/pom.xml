@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>spring-webscoket</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-webscoket</name>
+    <name>spring-websocket</name>
 
     <properties>
         <java.version>1.8</java.version>
